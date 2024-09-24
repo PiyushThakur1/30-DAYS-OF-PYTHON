@@ -21,18 +21,3 @@ if(len(first_name)>=len(last_name)):
     print("yoyoho")
 
 # 4
-num_one=5
-num_two=4
-
-total = num_one + num_two
-diff = num_one - num_two
-product = num_one * num_two
-division = num_one / num_two
-remainder = num_two % num_one
-
-
-print("Total:", total)
-print("Difference:", diff)
-print("Product:", product)
-print("Division:", division)
-print("Remainder:", remainder)
